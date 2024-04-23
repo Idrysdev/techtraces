@@ -51,7 +51,7 @@ Route::group(['prefix' => 'admin'] , function(){
     Route::get('/events/store', [EventController::class, 'store'])->name('events.store');
     Route::get('/type_event', [TypeEventController::class, 'index'])->name('type_event.index');
     Route::post('/type_event/store', [TypeEventController::class, 'store'])->name('type_event.store');
-    //
+    // 
     Route::post('/event_store/store', [CultureController::class, 'event_store'])->name('event_store');
 
     //Route::post('/event', [EventController::class, 'champ_store'])->name('champ.store');

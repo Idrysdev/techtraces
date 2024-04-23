@@ -19,7 +19,7 @@
 <!--[endif]-->
 
    <meta charset="utf-8" />
-   <title>adw_2024</title>
+   <title>ADW 2024</title>
    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
    <!--Template style -->
    <link rel="stylesheet" type="text/css" href="css/animate.css" />
@@ -84,7 +84,7 @@
                <div class="row">
                   <div class="col-lg-3 col-md-3 col-sm-12 col-12">
                      <div class="sb_logo_wrapper">
-                        <a href="javascript:;"><img src='images/Logo.jpg' alt='' height="60" width="150"/></a>
+                        {{-- <a href="javascript:;"><img src='images/Logo.jpg' alt='' height="60" width="150"/></a> --}}
                      </div>
                   </div>
                   <div class="col-lg-9 col-md-9 col-sm-12 col-12">
