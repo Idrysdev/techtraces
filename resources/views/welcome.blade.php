@@ -84,7 +84,7 @@
                <div class="row">
                   <div class="col-lg-3 col-md-3 col-sm-12 col-12">
                      <div class="sb_logo_wrapper">
-                        {{-- <a href="javascript:;"><img src='images/Logo.jpg' alt='' height="60" width="150"/></a> --}}
+                        <a href="javascript:;"><img src='images/Logo.jpg' alt='' height="60" width="150"/></a>
                      </div>
                   </div>
                   <div class="col-lg-9 col-md-9 col-sm-12 col-12">
